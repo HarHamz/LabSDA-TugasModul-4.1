@@ -6,7 +6,8 @@
     git clone https://github.com/HarHamz/LabSDA-TugasModul-4.1
     ```
 - Pada baris 1-4 di file `sudoku.cpp`, ketikkan nama dan NIM kamu
-- Kerjakan soalnya
+- Lengkapi fungsi `solveSudoku()` pada file `sudoku.cpp`
+- Gunakan `sudoku_solved.exe` sebagai referensi program yang berhasil.
 - Ikuti arahan selanjutnya dari asisten lab kamu
 
 ## Deskripsi Tugas
